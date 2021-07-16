@@ -8,6 +8,7 @@ resources:
   - repository: azure-pipelines-spfx-templates
     type: github
     name: Shilpa40/azure-pipelines-spfx-templates
+    ref: refs/tags/v1.0.0
     endpoint: github.com_Shilpa40
 
 variables:
